@@ -1,4 +1,6 @@
 ## Hi there 👋
+Currently studying at NEUST with BSIT course.
+
 
 <!--
 **traffy146/traffy146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
